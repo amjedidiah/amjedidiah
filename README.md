@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## my cool name
+
+### 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 <!--
 **amjedidiah/amjedidiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
