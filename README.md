@@ -21,11 +21,11 @@
 
 ---
 
-<img align="left" style="margin: 0 20px 20px 0" alt="amjedidiah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
+<img alt="amjedidiah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
 
-<img align="left" style="margin: 20px 20px 31px 0" alt="amjedidiah's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
+<img alt="amjedidiah's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
 
-<img align="left" style="margin: 20px 0 0 0" alt="amjedidiah's Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=amjedidiah" />
+<img alt="amjedidiah's Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=amjedidiah" />
 
 [website]: https://github.com/amjedidiah
 [twitter]: https://twitter.com/am_jedidiah
