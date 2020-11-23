@@ -2,7 +2,7 @@
 
 ## I am a Student and Front-end Developer, with the following specializations
 
-<img align="left" style="margin: 0 20px 20px" alt="postgreSQL" width="30px" src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" />
+<img align="left" style="margin: 0 15px 20px" alt="postgreSQL" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-inc-logo-png-transparent.png" />
 
 <img align="left" alt="expressJS" style="margin: 0 0 20px" width="115px" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" />
 
@@ -14,9 +14,9 @@
 
 <img align="left" alt="mySQL" style="margin: 0 10px 20px" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
 
-<img align="left" alt="pHp" width="40px"  style="margin: 5px 10px 20px" src="https://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" />
+<img align="left" alt="pHp" width="40px"  style="margin: 5px 10px 20px" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />
 
-<img align="left" alt="mongoDB" width="80px" style="margin: 5px 10px 20px" src="https://assets.stickpng.com/images/58481021cef1014c0b5e494b.png" />
+<img align="left" alt="mongoDB" width="110px" style="margin: -20px 0 20px" src="https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png" />
 
 <br /><br /><br /><br /><br /><br /><br />
 
