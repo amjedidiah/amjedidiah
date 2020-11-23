@@ -6,7 +6,7 @@
 
 <img align="left" alt="expressJS" style="margin: 0 0 20px" width="115px" src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" />
 
-<img align="left" alt="reactJS" style="margin: -10px 0 20px" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" />
+<img align="left" alt="reactJS" style="margin: -16px 0 20px" width="80px" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" />
 
 <img align="left" alt="nodeJS" style="margin: -3px 0 20px" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" />
 
@@ -14,9 +14,9 @@
 
 <img align="left" alt="mySQL" style="margin: 0 10px 20px" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
 
-<img align="left" alt="pHp" width="40px"  style="margin: 5px 10px 20px" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />
+<img align="left" alt="pHp" width="40px"  style="margin: 10px 10px 20px" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />
 
-<img align="left" alt="mongoDB" width="110px" style="margin: -20px 0 20px" src="https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png" />
+<img align="left" alt="mongoDB" width="110px" style="margin: -35px 0 20px" src="https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png" />
 
 <br /><br /><br /><br /><br /><br /><br />
 
