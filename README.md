@@ -27,7 +27,7 @@
   Ambassador with Andela 🤣
 - 🌱 I’m currently working on a React App for [EasyMall][easymall] 🤣
 - 👯 I’m looking to learn mobile development with React Native
-- 🥅 2020 Goals: Get a steady paying job
+<!-- - 🥅 2020 Goals: Get a steady paying job -->
 - ⚡ Fun fact: I love to listen to music as well as meet new interesting people and projects
 - 💬 Ask me about anything [here][issues]
 - 📝[Resume][resume]
