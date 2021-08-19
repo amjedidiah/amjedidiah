@@ -21,7 +21,8 @@
 
 <img alt="amjedidiah's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
 
-<img src="https://github.com/amjedidiah/amjedidiah/blob/main/images/stat.svg" alt="Amjedidiah WakaTime Activity"/>
+<img src="https://github.com/amjedidiah/amjedidiah/blob/main/images/stat.svg" alt="My WakaTime Activity"/>
+
 
 [twitter]: https://twitter.com/am_jedidiah
 [linkedin]: https://www.linkedin.com/in/am-jedidiah
