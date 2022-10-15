@@ -27,4 +27,4 @@
 [linkedin]: https://www.linkedin.com/in/am-jedidiah
 [studentbuild]: https://youtu.be/nmv_et2QFBI
 [issues]: https://github.com/amjedidiah/amjedidiah/issues
-[resume]: https://drive.google.com/file/d/1oyVD7TQucRfiyGE_hxjv0d4it1oAG2Jf/view?usp=sharing
+[resume]: https://standardresume.co/r/LpQU-TpzgY_DkJohiBYxw
