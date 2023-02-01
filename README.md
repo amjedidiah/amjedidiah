@@ -3,9 +3,9 @@
 ## Notable Facts About Me
 
 - 🌱 I’m a Software Engineer at [Remotebase](http://remotebase.com/) 
-- 🔭 During the lockdown, I spoke at a Student Developer conference: [7 Step Method to Achieving Your Goals As A Developer][studentbuild]!
-- 👯 I’m looking to learn mobile development with React Native
-- ⚡ Fun fact: I love to listen to music as well as meet new interesting people and projects
+- 🔭 Last year, I spoke at the Google Developers Group Event in Enugu.
+- 👯 I’m currently learning mobile development with React Native
+- ⚡ Fun fact: I love to listen to music as well as meet new interesting people
 - 💬 Ask me about anything [here][issues]
 - 📝[Resume][resume]
 
@@ -25,6 +25,5 @@
 
 [twitter]: https://twitter.com/am_jedidiah
 [linkedin]: https://www.linkedin.com/in/am-jedidiah
-[studentbuild]: https://youtu.be/nmv_et2QFBI
 [issues]: https://github.com/amjedidiah/amjedidiah/issues
 [resume]: https://standardresume.co/r/LpQU-TpzgY_DkJohiBYxw
