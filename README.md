@@ -22,9 +22,11 @@
 
 <br /><br />
 
-<img alt="amjedidiah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
+![Stats 1](https://github-readme-stats-sigma-five.vercel.app/api?username=amjedidiah&show_icons=true&locale=en)
 
-<img alt="amjedidiah's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjedidiah&count_private=true&theme=dracula&show_icons=true&icon_color=d5397a&layout=compact" />
+![Stats 2](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amjedidiah&show_icons=true&locale=en&layout=compact)
+
+![Stats 3](https://github-readme-streak-stats.herokuapp.com/?user=amjedidiah&)
 
 
 [twitter]: https://twitter.com/am_jedidiah
