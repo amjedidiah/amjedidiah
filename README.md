@@ -7,9 +7,8 @@
 
 ## Notable Facts About Me
 
-- 🌱 I’m a Software Engineer at [Remotebase](http://remotebase.com/) 
-- 🔭 Last year, I spoke at the Google Developers Group(GDG) DevFest in Enugu.
 - 💻 I’m a Software Engineer: Typescript | React/Redux | NextJS | GraphQL | Node | Express | MongoDB/PostgreSQL
+- 🔭 Last year, I spoke at the Google Developers Group(GDG) DevFest in Enugu.
 - 📚 I’m currently learning mobile development with React Native
 - ⚡ Fun fact: I love to listen to music as well as meet new and interesting people
 - 💬 Ask me about anything [here][issues]
