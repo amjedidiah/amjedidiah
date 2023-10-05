@@ -19,6 +19,8 @@
 [<img align="left" alt="Jedidiah Amaraegbu | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/17021436/216168250-c03100df-78e0-4727-ab73-7cb1ec8dd9fb.png" />][linkedin]
 [<img align="left" alt="Jedidiah Amaraegbu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
 
+<br /><br />
+
 ## GitHub Stats
 
 ![Stats 1](https://github-readme-stats-sigma-five.vercel.app/api?username=amjedidiah&show_icons=true&locale=en)
