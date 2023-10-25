@@ -25,7 +25,7 @@
 
 ![Stats 1](https://github-readme-stats-sigma-five.vercel.app/api?username=amjedidiah&show_icons=true&locale=en)
 ![Stats 2](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amjedidiah&show_icons=true&locale=en&layout=compact)
-![Stats 3](https://github-readme-streak-stats.herokuapp.com/?user=amjedidiah)
+<!-- ![Stats 3](https://github-readme-streak-stats.herokuapp.com/?user=amjedidiah) -->
 
 [twitter]: https://twitter.com/am_jedidiah
 [linkedin]: https://www.linkedin.com/in/am-jedidiah
