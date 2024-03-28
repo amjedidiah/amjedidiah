@@ -11,8 +11,8 @@
 - 🔭 I have tutored web development across three countries and have had the honour of speaking at the Google Developers Group (GDG) DevFest.
 - 📚 Currently, I'm diving into mobile development with React Native.
 - ⚡ Fun fact: I'm an avid music lover and enjoy meeting new and interesting people.
-- 📜 Currently, I'm open to new opportunities: [Resume](https://1drv.ms/w/s!Ahb3oSaZtiFSgeV9-Gm4M8A5Xdfhhw)
-- 💬 Feel free to reach out to me [here](https://github.com/amjedidiah/amjedidiah/issues).
+- 📜 Currently, I'm open to new opportunities
+- 💬 Feel free to reach out to me on LinkedIn or Twitter.
 
 ## Connect with me
 
