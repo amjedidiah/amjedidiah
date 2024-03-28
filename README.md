@@ -7,12 +7,11 @@
 
 ## Notable Facts
 
-- 💻 **Tech Stack**: TypeScript | React/Redux | Next.js | GraphQL | Node.js | Express | MongoDB/PostgreSQL
-- 🔭 I have tutored web development across three countries and have had the honour of speaking at the Google Developers Group (GDG) DevFest.
-- 📚 Currently, I'm diving into mobile development with React Native.
+- 💻 **Tech Stack**: JavaScript/TypeScript | React/Next.js | GraphQL | Node.js | Express | MongoDB/PostgreSQL
+- 🔭 I have tutored web development across 3 countries and have had the honour of speaking at the Google Developers Group (GDG) DevFest.
+- 📚 Currently, leading a 2-man team, Aestart, that builds intutive and aesthetically-pleasing software solutions using React.js, NextJS, React Native and WordPress for Content management.
+- 📜 I'm also open to new **_CHALLENGING_** opportunities.
 - ⚡ Fun fact: I'm an avid music lover and enjoy meeting new and interesting people.
-- 📜 Currently, I'm open to new opportunities
-- 💬 Feel free to reach out to me on LinkedIn or Twitter.
 
 ## Connect with me
 
