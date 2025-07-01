@@ -20,36 +20,44 @@
 
 ### 👨‍💻 About Me
 
-🚀 Since 2018, I've been building custom software solutions that drive business growth through captivating user experiences and streamlined processes.
+🚀 **Full-Stack Software Engineer** with 5+ years of experience building scalable solutions across international teams in the US, Europe, and Asia.
 
-💡 My journey into tech began in Lagos, Nigeria, sparked by a childhood curiosity about computer games. This curiosity has grown into a lifelong passion!
+💡 Originally pursuing dental surgery, I discovered my true passion in programming during engineering school and never looked back.
+My journey into tech began in Lagos, Nigeria, sparked by childhood curiosity about computer games and the internet.
 
-🔧 I specialize in full-stack development, primarily using **JavaScript (React, Next.js, and Node.js)** to craft seamless web applications. I also have experience with WordPress for content management.
+🔧 I specialize in **modern web stacks** using **TypeScript, React, Next.js, and Node.js** to craft enterprise solutions that drive business growth and enhance user experiences through clean architecture.
 
-🏆 I'm also a **Stripe Certified Professional Developer**, adept at creating and improving tailored payment solutions.
+🏆 **Stripe Certified Developer** specializing in payment integrations and compliant transaction processing for diverse international markets.
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **JavaScript / TypeScript**
-    * React (Next.js)
-    * Node.js (Express.js)
-* **GraphQL** (Apollo)
-* **Databases**
-    * MongoDB
-    * SQL (PostgreSQL)
-* **DevOps / Cloud**
-    * AWS
-    * Vercel
+* **Languages & Frameworks**
+    * TypeScript / JavaScript
+    * React.js / Next.js
+    * Node.js / Express.js
+* **Data & APIs**
+    * GraphQL / REST APIs
+    * PostgreSQL / MongoDB
+* **Cloud & DevOps**
+    * AWS / Vercel
+    * Docker
+* **Payment Systems**
+    * Stripe (Certified)
+* **Testing & Tools**
+    * Jest / React Testing Library
+    * Postman
 
 ---
 
 ### 🎓 Community & Knowledge Sharing
 
-I'm dedicated to continuous learning and empowering others.
-* Mentored 200+ aspiring developers across three continents.
-* Speaker at Google DevFest Enugu (2022 & 2023).
+Passionate about empowering the next generation of developers:
+* **Mentored 200+ developers** across three continents through collaborations with Google, Andela, Remotebase, and GoMyCode
+* **Speaker** at Google DevFest Enugu (2022 & 2023)
+* **Instructor** at GoMyCode, improving student job placement by 25%
+* **Volunteer** bootcamp facilitator in Benin Republic
 
 ---
 
@@ -62,11 +70,11 @@ I'm dedicated to continuous learning and empowering others.
 
 ### 🤝 Let's Collaborate!
 
-I'm always open to new and challenging opportunities. Let's connect and build something amazing together!
+I'm always open to challenging opportunities and building innovative solutions. Let's connect and create something amazing together!
 
 ---
 
-⚡ **Fun fact:** I'm an avid gamer, always up for a challenge! 🎮
+⚡ **Fun fact:** When not coding, you can find me playing video games, board games, table tennis, or meeting interesting people! 🎮🏓
 
 [twitter]: https://twitter.com/am_jedidiah
 [linkedin]: https://www.linkedin.com/in/am-jedidiah
