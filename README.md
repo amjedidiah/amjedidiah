@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jedidiah Amaraegbu!
 
-[![Jedidiah Amaraegbu](https://i.ibb.co/gzb5y25/1694694116518.jpg)](https://www.linkedin.com/in/am-jedidiah/)
+![Jedidiah Amaraegbu](https://i.ibb.co/gzb5y25/1694694116518.jpg)
 
 ---
 
