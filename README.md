@@ -23,11 +23,11 @@
 🚀 **Full-Stack Software Engineer** with 5+ years of experience building scalable solutions across international teams in the US, Europe, and Asia.
 
 💡 Originally pursuing dental surgery, I discovered my true passion in programming during engineering school and never looked back.
-My journey into tech began in Lagos, Nigeria, sparked by childhood curiosity about computer games and the internet.
+My tech journey began in Lagos, Nigeria, sparked by childhood curiosity about computer games and the internet.
 
-🔧 I specialize in **modern web stacks** using **TypeScript, React, Next.js, and Node.js** to craft enterprise solutions that drive business growth and enhance user experiences through clean architecture.
+🔧 I specialise in **modern web stacks** using **TypeScript, React, Next.js, and Node.js** to craft enterprise solutions that drive business growth and enhance user experiences through clean architecture.
 
-🏆 **Stripe Certified Developer** specializing in payment integrations and compliant transaction processing for diverse international markets.
+🏆 **Stripe Certified Developer** specialising in payment integrations and compliant transaction processing for diverse international markets.
 
 ---
 
@@ -57,7 +57,7 @@ Passionate about empowering the next generation of developers:
 * **Mentored 200+ developers** across three continents through collaborations with Google, Andela, Remotebase, and GoMyCode
 * **Speaker** at Google DevFest Enugu (2022 & 2023)
 * **Instructor** at GoMyCode, improving student job placement by 25%
-* **Volunteer** bootcamp facilitator in Benin Republic
+* **Volunteer** bootcamp facilitator in the Benin Republic
 
 ---
 
@@ -70,11 +70,11 @@ Passionate about empowering the next generation of developers:
 
 ### 🤝 Let's Collaborate!
 
-I'm always open to challenging opportunities and building innovative solutions. Let's connect and create something amazing together!
+I'm always open to new and challenging opportunities, and I enjoy building innovative solutions. Let's connect and create something amazing together!
 
 ---
 
-⚡ **Fun fact:** When not coding, you can find me playing video games, board games, table tennis, or meeting interesting people! 🎮🏓
+⚡ **Fun fact:** When not coding, you can find me on Duolingo, playing games (video games, board games, and table tennis) or participating in activities that get me moving, and meeting other interesting people! 🎮🏓
 
 [twitter]: https://twitter.com/am_jedidiah
 [linkedin]: https://www.linkedin.com/in/am-jedidiah
