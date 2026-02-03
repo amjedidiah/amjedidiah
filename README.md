@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-🚀 **Full-Stack Software Engineer** with 5+ years of experience building scalable solutions across international teams in the US, Europe, and Asia.
+🚀 **Full-Stack Software Engineer** with 6+ years of experience building scalable solutions across international teams in the US, Europe, and Asia.
 
 💡 Originally pursuing dental surgery, I discovered my true passion in programming during engineering school and never looked back.
 My tech journey began in Lagos, Nigeria, sparked by childhood curiosity about computer games and the internet.
