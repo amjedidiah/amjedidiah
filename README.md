@@ -4,12 +4,13 @@
 
 ---
 
-[![Stripe Professional Developer](https://user-images.githubusercontent.com/17021436/216167350-8ed3d73a-4014-48d8-9a5c-f10bddbeb71b.png)](https://stripe.com/developers)
-[![Stripe Professional Implementation Architect](https://user-images.githubusercontent.com/17021436/216167519-537cc3b5-7aee-426a-b20d-1d3e3aced575.png)](https://stripe.com/developers)
+[![Stripe Professional Payments Developer](https://user-images.githubusercontent.com/17021436/216167350-8ed3d73a-4014-48d8-9a5c-f10bddbeb71b.png)](https://stripecertifications.credential.net/efcd44b0-6e66-4262-89c2-5a513bdec126)
 
 ---
 
 ### 🔗 Connect with Me
+
+**[Portfolio](https://amjedidiah.vercel.app)** · **[CV (PDF)](https://docs.google.com/document/d/1_6ohHcb4bY9K7168NzdT5_nF9qKQSTtr70kRpAQrN6o/export?format=pdf)** · **[Email](mailto:imunacode@gmail.com)**
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/17021436/216168250-c03100df-78e0-4727-ab73-7cb1ec8dd9fb.png" />][linkedin]
 [<img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
@@ -25,7 +26,7 @@
 💡 Originally pursuing dental surgery, I discovered my true passion in programming during engineering school and never looked back.
 My tech journey began in Lagos, Nigeria, sparked by childhood curiosity about computer games and the internet.
 
-🔧 I specialise in **modern web stacks** using **TypeScript, React, Next.js, and Node.js** to craft enterprise solutions that drive business growth and enhance user experiences through clean architecture.
+🔧 I build **websites, mobile apps, payment systems and AI features** for startups and growing businesses, mainly with **TypeScript, React, Next.js, React Native and Node.js**.
 
 🏆 **Stripe Certified Developer** specialising in payment integrations and compliant transaction processing for diverse international markets.
 
@@ -37,6 +38,8 @@ My tech journey began in Lagos, Nigeria, sparked by childhood curiosity about co
     * TypeScript / JavaScript
     * React.js / Next.js
     * Node.js / Express.js
+    * React Native / Expo
+    * Python / FastAPI
 * **Data & APIs**
     * GraphQL / REST APIs
     * PostgreSQL / MongoDB
@@ -44,7 +47,9 @@ My tech journey began in Lagos, Nigeria, sparked by childhood curiosity about co
     * AWS / Vercel
     * Docker
 * **Payment Systems**
-    * Stripe (Certified)
+    * Stripe (Certified) / Paystack
+* **AI**
+    * LangChain / OpenRouter
 * **Testing & Tools**
     * Jest / React Testing Library
     * Postman
@@ -58,13 +63,6 @@ Passionate about empowering the next generation of developers:
 * **Speaker** at Google DevFest Enugu (2022 & 2023)
 * **Instructor** at GoMyCode, improving student job placement by 25%
 * **Volunteer** bootcamp facilitator in the Benin Republic
-
----
-
-### 📊 My GitHub Stats
-
-![Jedidiah's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=amjedidiah&show_icons=true&locale=en&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amjedidiah&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ---
 
