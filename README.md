@@ -4,7 +4,8 @@
 
 ---
 
-[![Stripe Professional Payments Developer](https://user-images.githubusercontent.com/17021436/216167350-8ed3d73a-4014-48d8-9a5c-f10bddbeb71b.png)](https://stripecertifications.credential.net/efcd44b0-6e66-4262-89c2-5a513bdec126)
+[<img width="400" height="400" alt="35967713a77de0072de255fa2e1d4e78" src="https://github.com/user-attachments/assets/192d6b7a-f6ca-4350-8309-bfe3ccdd0ee3" />](https://stripecertifications.credential.net/efcd44b0-6e66-4262-89c2-5a513bdec126)
+
 
 ---
 
@@ -26,7 +27,7 @@
 💡 Originally pursuing dental surgery, I discovered my true passion in programming during engineering school and never looked back.
 My tech journey began in Lagos, Nigeria, sparked by childhood curiosity about computer games and the internet.
 
-🔧 I build **websites, mobile apps, payment systems and AI features** for startups and growing businesses, mainly with **TypeScript, React, Next.js, React Native and Node.js**.
+🔧 I empower individuals and businesses with quality **websites, mobile apps, payment systems and AI features**, mostly with **TypeScript, React, Next.js, React Native, Node.js, and Python**.
 
 🏆 **Stripe Certified Developer** specialising in payment integrations and compliant transaction processing for diverse international markets.
 
